@@ -1,4 +1,4 @@
-package problems.p141;
+package org.supersense.leetcode.problems.p141;
 
 public class Solution {
 	public boolean hasCycle(ListNode head) {

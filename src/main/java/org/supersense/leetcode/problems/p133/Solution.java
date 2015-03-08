@@ -1,4 +1,4 @@
-package problems.p133;
+package org.supersense.leetcode.problems.p133;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package problems.p148;
+package org.supersense.leetcode.problems.p148;
 
 public class Solution {
 	public ListNode sortList(ListNode head) {

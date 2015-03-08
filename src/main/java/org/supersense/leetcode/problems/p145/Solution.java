@@ -1,4 +1,4 @@
-package problems.p145;
+package org.supersense.leetcode.problems.p145;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package problems.p134;
+package org.supersense.leetcode.problems.p134;
 
 public class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {

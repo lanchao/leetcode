@@ -1,4 +1,4 @@
-package problems.p187;
+package org.supersense.leetcode.problems.p187;
 
 import java.util.List;
 

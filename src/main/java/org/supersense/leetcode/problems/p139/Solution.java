@@ -1,4 +1,4 @@
-package problems.p139;
+package org.supersense.leetcode.problems.p139;
 import java.util.Set;
 
 public class Solution {

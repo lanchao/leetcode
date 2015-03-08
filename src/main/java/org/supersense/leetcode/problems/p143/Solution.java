@@ -1,4 +1,4 @@
-package problems.p143;
+package org.supersense.leetcode.problems.p143;
 
 public class Solution {
     public void reorderList(ListNode head) {

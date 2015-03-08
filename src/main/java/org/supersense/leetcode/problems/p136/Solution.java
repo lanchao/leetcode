@@ -1,4 +1,4 @@
-package problems.p136;
+package org.supersense.leetcode.problems.p136;
 
 public class Solution {
     public int singleNumber(int[] A) {

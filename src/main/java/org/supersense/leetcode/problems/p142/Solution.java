@@ -1,4 +1,4 @@
-package problems.p142;
+package org.supersense.leetcode.problems.p142;
 
 public class Solution {
 	public ListNode detectCycle(ListNode head) {

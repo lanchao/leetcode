@@ -1,4 +1,4 @@
-package problems.p127;
+package org.supersense.leetcode.problems.p127;
 
 import java.util.ArrayList;
 import java.util.Arrays;

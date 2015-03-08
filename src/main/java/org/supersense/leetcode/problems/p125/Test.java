@@ -1,4 +1,4 @@
-package problems.p125;
+package org.supersense.leetcode.problems.p125;
 
 public class Test {
 

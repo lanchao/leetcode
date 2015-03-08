@@ -1,4 +1,4 @@
-package problems.p155;
+package org.supersense.leetcode.problems.p155;
 
 public class MinStack {
 	

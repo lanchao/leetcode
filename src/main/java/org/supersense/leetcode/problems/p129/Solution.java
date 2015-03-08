@@ -1,4 +1,4 @@
-package problems.p129;
+package org.supersense.leetcode.problems.p129;
 
 public class Solution {
 

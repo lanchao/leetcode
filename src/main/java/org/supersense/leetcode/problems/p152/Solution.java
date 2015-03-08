@@ -1,4 +1,4 @@
-package problems.p152;
+package org.supersense.leetcode.problems.p152;
 
 public class Solution {
     public int maxProduct(int[] A) {
