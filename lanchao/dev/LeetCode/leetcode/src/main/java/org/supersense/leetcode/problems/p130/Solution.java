@@ -1,4 +1,4 @@
-package problems.p130;
+package org.supersense.leetcode.problems.p130;
 
 import java.util.LinkedList;
 import java.util.Queue;

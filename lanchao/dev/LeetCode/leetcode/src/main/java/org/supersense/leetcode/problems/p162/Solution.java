@@ -1,4 +1,4 @@
-package problems.p162;
+package org.supersense.leetcode.problems.p162;
 
 public class Solution {
     public int findPeakElement(int[] num) {

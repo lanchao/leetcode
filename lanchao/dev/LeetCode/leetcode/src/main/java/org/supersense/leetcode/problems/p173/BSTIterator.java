@@ -1,4 +1,4 @@
-package problems.p173;
+package org.supersense.leetcode.problems.p173;
 
 import java.util.Stack;
 

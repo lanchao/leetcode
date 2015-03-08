@@ -1,4 +1,4 @@
-package problems.p179;
+package org.supersense.leetcode.problems.p179;
 
 import java.util.ArrayList;
 import java.util.Collections;

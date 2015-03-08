@@ -1,4 +1,4 @@
-package problems.p168;
+package org.supersense.leetcode.problems.p168;
 
 public class Solution {
     public String convertToTitle(int n) {

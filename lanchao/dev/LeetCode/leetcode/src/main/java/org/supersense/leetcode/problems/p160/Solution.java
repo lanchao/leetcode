@@ -1,4 +1,4 @@
-package problems.p160;
+package org.supersense.leetcode.problems.p160;
 
 public class Solution {
 	 public ListNode getIntersectionNode(ListNode headA, ListNode headB) {

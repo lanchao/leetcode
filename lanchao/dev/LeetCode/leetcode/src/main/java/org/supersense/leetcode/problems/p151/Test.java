@@ -1,4 +1,4 @@
-package problems.p151;
+package org.supersense.leetcode.problems.p151;
 
 public class Test {
 

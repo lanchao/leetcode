@@ -1,4 +1,4 @@
-package problems.p153;
+package org.supersense.leetcode.problems.p153;
 
 public class Solution {
 	public int findMin(int[] num) {

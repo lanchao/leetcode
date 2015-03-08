@@ -1,4 +1,4 @@
-package problems.p166;
+package org.supersense.leetcode.problems.p166;
 
 import java.util.HashMap;
 import java.util.Map;

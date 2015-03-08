@@ -1,4 +1,4 @@
-package problems.p150;
+package org.supersense.leetcode.problems.p150;
 
 public class Solution {
     public int evalRPN(String[] tokens) {
