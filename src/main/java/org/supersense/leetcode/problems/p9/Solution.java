@@ -1,4 +1,4 @@
-package org.supersense.leetcode.problems;
+package org.supersense.leetcode.problems.p9;
 
 public class Solution {
 
