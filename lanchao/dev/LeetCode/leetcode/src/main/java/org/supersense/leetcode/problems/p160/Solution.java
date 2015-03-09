@@ -1,5 +1,7 @@
 package org.supersense.leetcode.problems.p160;
 
+import org.supersense.leetcode.problems.utils.ListNode;
+
 public class Solution {
 	 public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 	        int countA = count(headA);
