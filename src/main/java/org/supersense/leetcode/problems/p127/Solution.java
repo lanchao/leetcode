@@ -1,13 +1,8 @@
 package org.supersense.leetcode.problems.p127;
 
-import java.util.HashMap;
-import java.util.HashSet;
 import java.util.LinkedList;
-import java.util.Map;
-import java.util.Map.Entry;
 import java.util.Queue;
 import java.util.Set;
-import java.util.List;
 
 public class Solution {
     public int ladderLength(String start, String end, Set<String> dict) {
