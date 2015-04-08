@@ -1,8 +1,6 @@
 package org.supersense.leetcode.problems.p16;
 
 import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
 
 public class Solution {
 	public int threeSumClosest(int[] num, int target) {
