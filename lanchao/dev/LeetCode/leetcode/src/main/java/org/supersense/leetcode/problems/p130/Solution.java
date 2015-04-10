@@ -12,7 +12,7 @@ public class Solution {
             for (int col=0; col<coln; ++col) {
                 if (row==0 || row==rown-1 || col==0 || col==coln-1) {
                     if (board[row][col]=='O') {
-                        Queue<Integer> q = new LinkedList<>();
+                        Queue<Integer> q = new LinkedList<Integer>();
                         board[row][col]='1';
                         q.add(row*coln+col);
                         while (!q.isEmpty()) {
