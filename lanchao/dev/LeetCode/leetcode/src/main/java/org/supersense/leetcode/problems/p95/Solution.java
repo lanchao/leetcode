@@ -3,6 +3,8 @@ package org.supersense.leetcode.problems.p95;
 import java.util.LinkedList;
 import java.util.List;
 
+import org.supersense.leetcode.problems.utils.TreeNode;
+
 public class Solution {
 	public List<TreeNode> generateTrees(int n) {
 		//return recursiveGenerateTrees(1, n);
