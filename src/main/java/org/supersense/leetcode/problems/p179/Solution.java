@@ -25,7 +25,6 @@ public class Solution {
 	}
 
 	class StringCompare implements Comparator<String> {
-		@Override
 		public int compare(String o1, String o2) {
 
 			String s1 = o1, s2 = o2;
